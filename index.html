@@ -3,7 +3,7 @@
   <body>
     <h1>Hello my friend!</h1>
     <br>
-    <img src="https://cdn.luogu.com.cn/upload/usericon/1315217.png">
+    <img src="https://cdn.luogu.com.cn/upload/usericon/1315217.png" height="500" width="500">
     <br>
     <b>some webpage</b>
     <br>
