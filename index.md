@@ -5,6 +5,6 @@
     <br>
     <b>some webpage</b>
     <br>
-    <a herf="https://oi.nks.edu.cn:19360">CQNK</a>
+    <a href="https://www.bilibili.com">Bilibili</a>
   </body>
 </html>
